@@ -1,0 +1,7 @@
+#########################################################
+# grey is love		                        	            #
+# by Jehy  -  http://jehy.ru/articles/                  #
+# based on corporate theme http://www.oripearl.com/    	#
+#########################################################
+
+This theme is licensed under the GPLv3 free software license.
